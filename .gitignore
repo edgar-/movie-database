@@ -1,3 +1,7 @@
 .DS_Store
 /.settings/
 /.project
+/logs/
+.vagrant
+dump.rdb
+node_modules
